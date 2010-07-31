@@ -7,6 +7,7 @@ Provide some sample input, and your regular expression, and Reginald will provid
 
 Reginald is built on [RegexKitLite](http://regexkit.sourceforge.net/RegexKitLite/), and so uses the [ICU syntax](http://regexkit.sourceforge.net/RegexKitLite/index.html#ICUSyntax).
 
+It will run on Mac OS X 10.6 and above.
 
 
 ----------
